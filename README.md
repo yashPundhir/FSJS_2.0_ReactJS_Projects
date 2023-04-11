@@ -7,3 +7,7 @@
 - > ## [React Router Project](https://github.com/yashPundhir/React_Router_Practice_Project)
 
 ---
+
+- > ## [Zustand Practice Project](https://github.com/yashPundhir/Zustand_Practice_Project)
+
+---
