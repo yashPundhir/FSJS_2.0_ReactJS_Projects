@@ -11,3 +11,7 @@
 - > ## [Zustand Practice Project](https://github.com/yashPundhir/Zustand_Practice_Project)
 
 ---
+
+- > ## [Expense Tracker App with Zustand](https://github.com/yashPundhir/Expense_Tracker_App_With_Zustand)
+
+---
